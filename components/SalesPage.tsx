@@ -14,7 +14,7 @@ const SectionContainer: React.FC<{ children: React.ReactNode; className?: string
 
 const ButtonCTA: React.FC<{ text?: string; className?: string; small?: boolean }> = ({ text = "QUERO RECEBER MEU APLICATIVO!", className = "", small = false }) => (
   <a 
-    href="https://pay.kiwify.com.br/S5FI6jQ" 
+    href="https://pay.kiwify.com.br/S5FI6jQ?afid=oLjhX7j8" 
     target="_blank"
     rel="noopener noreferrer"
     className={`
